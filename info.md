@@ -15,7 +15,7 @@ have some of the following background:
 * have had industry experience. 
 
 You should be in communication with me (the instructor) before
-semester begins to request an override.
+the semester begins to request an override.
 
 ## Who is this course for?
 
