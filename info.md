@@ -10,9 +10,9 @@ The only prerequisite is CS571. However, if you believe you
 have some of the following background: 
 
 * familiar with (operating/distributed/computer) systems;
-* have taken Mason's undergrad operating systems course (CS471);
+* have taken Mason's undergrad operating systems course (CS471) and got a B+ or better;
 * know how networks work (CS455);
-* had industry experience. 
+* have had industry experience. 
 
 You should be in communication with me (the instructor) before
 semester begins to request an override.
