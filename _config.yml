@@ -8,8 +8,8 @@ permalink:           pretty
 title:               CS675
 tagline:             'Distributed Systems (Spring 2020)'
 description:         'CS675: Distributed Systems<br>George Mason University'
-url:                 'https://tddg.github.io/cs675-spring20'
-baseurl:             ''
+url:                 ''
+baseurl:             'https://tddg.github.io/cs675-spring20'
 
 # yue's hack
 plugins:
