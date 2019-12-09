@@ -121,7 +121,7 @@ The course schedule is tentative and subject to change.
 	<b>Lec 5:</b> 2PC, consensus (Paxos, Raft)</td>
   <td class="nodue">
 	<span class="reading">2PC, Paxos, Raft</span></td>
-  <td class="optional">Paxos made live<br/>
+  <td class="optional">Paxos made live,<br/>
 	Chain replication</td>
 </tr>
 <tr> <!-- week of Feb 24 -->
