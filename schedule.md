@@ -182,7 +182,7 @@ The course schedule is tentative and subject to change.
   <td class="optional">BigTable, Spanner</td>
 </tr>
 <tr> <!-- week of Apr 13 -->
-  <td id="2020-4-15" class="date"><b>Apr 15</b><</td>
+  <td id="2020-4-15" class="date"><b>Apr 15</b></td>
   <td class="lecture">
 	<b>Lec 10:</b> Serverless computing</td>
   <td class="deadline">
