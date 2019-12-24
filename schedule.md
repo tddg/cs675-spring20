@@ -152,7 +152,7 @@ The course schedule is tentative and subject to change.
 <tr> <!-- week of Mar 16 -->
   <td id="2020-3-18" class="date"><b>Mar 18</b></td>
   <td class="lecture">
-	<b>Lec 6:</b> Infrastructure, DC/OS (YouTube video)</td>
+	<b>Lec 6:</b> Spark (YouTube video)</td>
   <td class="deadline">
 	<span class="hwdue">Project proposal due</span><br/>
 	<span class="reading">DC/OS, Borg, Mesos</span></td>
@@ -161,7 +161,7 @@ The course schedule is tentative and subject to change.
 <tr> <!-- week of Mar 23 -->
   <td id="2020-3-25" class="date"><b>Mar 25</b></td>
   <td class="lecture">
-	<b>Lec 7:</b> MapReduce, Spark, cluster computing scheduling</td>
+	<b>Lec 7:</b> Infrastructure, DC/OS</td>
   <td class="nodue">
 	<span class="reading">MapReduce, Spark</span></td>
   <td class="optional">Google File System</td>
