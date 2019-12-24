@@ -105,7 +105,7 @@ The course schedule is tentative and subject to change.
   <td class="deadline">
 	<span class="hwdue"><a href="./lab1.html">Lab 1</a> due (Friday Feb 5)</span><br/>
 	<span class="reading">OSTEP+???</span></td>
-  <td class="optional">XXX</td>
+  <td class="optional">Google File System</td>
 </tr>
 <tr> <!-- week of Feb 10 -->
   <td id="2020-2-12" class="date"><b>Feb 12</b></td>
@@ -156,7 +156,7 @@ The course schedule is tentative and subject to change.
   <td class="deadline">
 	<span class="hwdue">Project proposal due</span><br/>
 	<span class="reading">Spark</span></td>
-  <td class="optional">Google File System</td>
+  <td></td>
 </tr>
 <tr> <!-- week of Mar 23 -->
   <td id="2020-3-25" class="date"><b>Mar 25</b></td>
