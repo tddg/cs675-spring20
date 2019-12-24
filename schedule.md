@@ -93,7 +93,7 @@ The course schedule is tentative and subject to change.
 <tr> <!-- week of Jan 27 -->
   <td id="2020-1-29" class="date"><b>Jan 29</b></td>
   <td class="lecture">
-	<b>Lec 2:</b> RPC, concurrency</td>
+	<b>Lec 2:</b> Remote procedure call, RPCs in Go</td>
   <td class="deadline">
 	<span class="hwdue">Lab setup due</span></td>
   <td class="optional">XXX</td>
