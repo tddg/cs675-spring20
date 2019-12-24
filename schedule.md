@@ -155,16 +155,16 @@ The course schedule is tentative and subject to change.
 	<b>Lec 6:</b> Spark (YouTube video)</td>
   <td class="deadline">
 	<span class="hwdue">Project proposal due</span><br/>
-	<span class="reading">DC/OS, Borg, Mesos</span></td>
-  <td class="optional">Google datacenter workload analysis, Quasar, Omega</td>
+	<span class="reading">Spark</span></td>
+  <td class="optional">Google File System</td>
 </tr>
 <tr> <!-- week of Mar 23 -->
   <td id="2020-3-25" class="date"><b>Mar 25</b></td>
   <td class="lecture">
 	<b>Lec 7:</b> Infrastructure, DC/OS</td>
   <td class="nodue">
-	<span class="reading">MapReduce, Spark</span></td>
-  <td class="optional">Google File System</td>
+	<span class="reading">DC/OS, Borg, Mesos</span></td>
+  <td class="optional">Google datacenter workload analysis, Hadoop YARN, Quasar, Omega</td>
 </tr>
 <tr> <!-- week of Mar 30 -->
   <td id="2020-4-1" class="date"><b>Apr 1</b></td>
