@@ -87,7 +87,8 @@ The course schedule is tentative and subject to change.
 	<b>Lec 1:</b> Introduction, <br/> 
 		Go systems programming</td>
   <td class="assignment">
-	<b><a href="./lab1.html">Lab 1</a></b> assigned</td>
+	<b><a href="./lab1.html">Lab 1</a></b> assigned<br/>
+		[syntax][go_systems_programming]</td>
   <td class="optional">XXX</td>
 </tr>
 <tr> <!-- week of Jan 27 -->
