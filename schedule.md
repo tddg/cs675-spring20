@@ -188,7 +188,7 @@ The course schedule is tentative and subject to change.
 	<b>Lec 10:</b> Serverless computing</td>
   <td class="deadline">
 	<span class="hwdue">Project checkpoint report due</span><br/>
-	<span class="reading">Berkeley's view of Serverless Computing</span></td>
+	<span class="reading">Berkeley's view of serverless computing</span></td>
   <td class="optional">OpenLambda, SOCK, Wukong</td>
 </tr>
 <tr> <!-- week of Apr 20 -->
