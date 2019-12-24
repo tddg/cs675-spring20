@@ -104,7 +104,7 @@ The course schedule is tentative and subject to change.
 	<b>Lec 3:</b> MapReduce, RPCs in Go</td>
   <td class="deadline">
 	<span class="hwdue"><a href="./lab1.html">Lab 1</a> due (Friday Feb 5)</span><br/>
-	<span class="reading">OSTEP+???</span></td>
+	<span class="reading">MapReduce</span></td>
   <td class="optional">Google File System</td>
 </tr>
 <tr> <!-- week of Feb 10 -->
