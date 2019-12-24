@@ -87,7 +87,7 @@ The course schedule is tentative and subject to change.
 	<b>Lec 1:</b> Introduction, <br/> 
 		Go systems programming</td>
   <td class="assignment">
-	<a href="./lab1.html">Lab 1 assigned</a></td>
+	<b><a href="./lab1.html">Lab 1</a></b> assigned</td>
   <td class="optional">XXX</td>
 </tr>
 <tr> <!-- week of Jan 27 -->
@@ -112,7 +112,7 @@ The course schedule is tentative and subject to change.
   <td class="lecture">
 	<b>Lec 4:</b> P-B, time & clock</td>
   <td class="assignment">
-	<a href="./lab2.html">Lab 2 assigned</a><br/>
+	<b><a href="./lab2.html">Lab 2</a></b> assigned<br/>
 	<span class="reading">XXX</span></td>
   <td class="optional">XXX</td>
 </tr>
