@@ -101,7 +101,7 @@ The course schedule is tentative and subject to change.
 <tr> <!-- week of Feb 3 -->
   <td id="2020-2-5" class="date"><b>Feb 5</b></td>
   <td class="lecture">
-	<b>Lec 3:</b> NFS, replication</td>
+	<b>Lec 3:</b> MapReduce, RPCs in Go</td>
   <td class="deadline">
 	<span class="hwdue"><a href="./lab1.html">Lab 1</a> due (Friday Feb 5)</span><br/>
 	<span class="reading">OSTEP+???</span></td>
@@ -110,7 +110,7 @@ The course schedule is tentative and subject to change.
 <tr> <!-- week of Feb 10 -->
   <td id="2020-2-12" class="date"><b>Feb 12</b></td>
   <td class="lecture">
-	<b>Lec 4:</b> Time, clock, synchronization</td>
+	<b>Lec 4:</b> P-B, time & clock</td>
   <td class="assignment">
 	<a href="./lab2.html">Lab 2 assigned</a><br/>
 	<span class="reading">XXX</span></td>
@@ -119,7 +119,7 @@ The course schedule is tentative and subject to change.
 <tr> <!-- week of Feb 17 -->
   <td id="2020-2-19" class="date"><b>Feb 19</b></td>
   <td class="lecture">
-	<b>Lec 5:</b> 2PC, consensus (Paxos, Raft)</td>
+	<b>Lec 5:</b> 2PC, distributed consensus (Raft)</td>
   <td class="nodue">
 	<span class="reading">2PC, Paxos, Raft</span></td>
   <td class="optional">Paxos made live,<br/>
