@@ -84,7 +84,8 @@ The course schedule is tentative and subject to change.
 <tr> <!-- week of Jan 20 -->
   <td id="2020-1-22" class="date"><b>Jan 22</b></td>
   <td class="lecture">
-	<b>Lec 1:</b> Introduction, Go systems programming</td>
+	<b>Lec 1:</b> Introduction, <br/> 
+		Go systems programming</td>
   <td class="assignment">
 	<a href="./lab1.html">Lab 1 assigned</a></td>
   <td class="optional">XXX</td>
