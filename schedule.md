@@ -111,7 +111,7 @@ The course schedule is tentative and subject to change.
 <tr> <!-- week of Feb 10 -->
   <td id="2020-2-12" class="date"><b>Feb 12</b></td>
   <td class="lecture">
-	<b>Lec 4:</b> P-B, time & clock</td>
+	<b>Lec 4:</b> Primary-backup, time & clock</td>
   <td class="assignment">
 	<b><a href="./lab2.html">Lab 2</a></b> assigned<br/>
 	<span class="reading">XXX</span></td>
