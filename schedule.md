@@ -120,9 +120,9 @@ The course schedule is tentative and subject to change.
 <tr> <!-- week of Feb 17 -->
   <td id="2020-2-19" class="date"><b>Feb 19</b></td>
   <td class="lecture">
-	<b>Lec 5:</b> 2PC, distributed consensus (Raft)</td>
+	<b>Lec 5:</b> Distributed consensus (Paxos + Raft)</td>
   <td class="nodue">
-	<span class="reading">2PC, Paxos, Raft</span></td>
+	<span class="reading">Paxos, Raft</span></td>
   <td class="optional">Paxos made live,<br/>
 	Chain replication</td>
 </tr>
