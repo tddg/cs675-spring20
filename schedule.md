@@ -162,35 +162,35 @@ The course schedule is tentative and subject to change.
 <tr> <!-- week of Mar 23 -->
   <td id="2020-3-25" class="date"><b>Mar 25</b></td>
   <td class="lecture">
-	<b>Lec 7:</b> Infrastructure, DC/OS</td>
-  <td class="nodue">
-	<span class="reading">DC/OS, Borg, Mesos</span></td>
-  <td class="optional">Google datacenter workload analysis, Hadoop YARN, Quasar, Omega</td>
-</tr>
-<tr> <!-- week of Mar 30 -->
-  <td id="2020-4-1" class="date"><b>Apr 1</b></td>
-  <td class="lecture">
-	<b>Lec 8:</b> Cluster scheduling: Late scheduling, Sparrow</td>
-  <td class="nodue">
-	<span class="reading">Late, Sparrow</span></td>
-  <td class="optional">??</td>
-</tr>
-<tr> <!-- week of Apr 6 -->
-  <td id="2020-4-8" class="date"><b>Apr 8</b></td>
-  <td class="lecture">
-	<b>Lec 9:</b> NoSQL, Memcached</td>
+	<b>Lec 7:</b> NoSQL, Memcached</td>
   <td class="nodue">
 	<span class="reading">Dynamo, Facebook memcache</span></td>
   <td class="optional">BigTable, Spanner</td>
 </tr>
+<tr> <!-- week of Mar 30 -->
+  <td id="2020-4-1" class="date"><b>Apr 1</b></td>
+  <td class="lecture">
+	<b>Lec 8:</b> Serverless computing</td>
+  <td class="nodue">
+	<span class="reading">Berkeley's view of serverless computing</span></td>
+  <td class="optional">OpenLambda, SOCK, Wukong</td>
+</tr>
+<tr> <!-- week of Apr 6 -->
+  <td id="2020-4-8" class="date"><b>Apr 8</b></td>
+  <td class="lecture">
+	<b>Lec 9:</b> Infrastructure, DC/OS</td>
+  <td class="nodue">
+	<span class="reading">DC/OS, Borg, Mesos</span></td>
+  <td class="optional">Google datacenter workload analysis, Hadoop YARN, Quasar, Omega</td>
+</tr>
 <tr> <!-- week of Apr 13 -->
   <td id="2020-4-15" class="date"><b>Apr 15</b></td>
   <td class="lecture">
-	<b>Lec 10:</b> Serverless computing</td>
+	<b>Lec 10:</b> Cluster scheduling: Late scheduling, Sparrow</td>
   <td class="deadline">
 	<span class="hwdue">Project checkpoint report due</span><br/>
-	<span class="reading">Berkeley's view of serverless computing</span></td>
-  <td class="optional">OpenLambda, SOCK, Wukong</td>
+	<span class="reading">Late, Sparrow</span></td>
+  <td class="optional">??</td>
 </tr>
 <tr> <!-- week of Apr 20 -->
   <td id="2020-4-22" class="date"><b>Apr 22</b></td>
