@@ -5,9 +5,9 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               CS675
+title:               'CS 675'
 tagline:             'Distributed Systems (Spring 2020)'
-description:         'CS675: Distributed Systems<br>George Mason University'
+description:         'CS 675: Distributed Systems<br>George Mason University'
 url:                 ''
 baseurl:             'https://tddg.github.io/cs675-spring20'
 
