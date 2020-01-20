@@ -30,7 +30,7 @@ data-intensive applications.
 Your grade will be calculated as follows:
 
 
-* 30% programming assignments
+* 30% lab assignments
 * 10% midterm exam
 * 10% paper reviews
 * 5% class participation
