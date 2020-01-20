@@ -104,8 +104,7 @@ The course schedule is tentative and subject to change.
   <td id="2020-2-5" class="date"><b>Feb 5</b></td>
   <td class="lecture">
 	<b>Lec 3:</b> MapReduce, concurrency in Go</td>
-  <td class="deadline">
-	<span class="hwdue"><a href="./lab1.html">Lab 1</a> due (Friday Feb 5)</span><br/>
+  <td class="nodue">
 	<span class="reading">MapReduce</span></td>
   <td class="optional">Google File System</td>
 </tr>
