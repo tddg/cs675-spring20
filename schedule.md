@@ -87,7 +87,7 @@ The course schedule is tentative and subject to change.
 	<b>Lec 1:</b> Introduction, <br/> 
 		Go systems programming</td>
   <td class="assignment">
-	<b><a href="./lab1.html">Lab 1</a></b> assigned<br/>
+	<b><a href="https://github.com/cs675-spring20-projs/lab0">Lab 0</a></b> out<br/>
 		[syntax][go_systems_programming]</td>
   <td class="optional">XXX</td>
 </tr>
@@ -96,7 +96,8 @@ The course schedule is tentative and subject to change.
   <td class="lecture">
 	<b>Lec 2:</b> Remote procedure call, RPCs in Go</td>
   <td class="deadline">
-	<span class="hwdue">Lab setup due</span></td>
+	<span class="hwdue"><a href="https://github.com/cs675-spring20-projs/lab0">Lab 0</a> due</span></td>
+	<b><a href="https://github.com/cs675-spring20-projs/lab1">Lab 1</a></b> out
   <td class="optional">XXX</td>
 </tr>
 <tr> <!-- week of Feb 3 -->
