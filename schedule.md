@@ -113,8 +113,9 @@ The course schedule is tentative and subject to change.
   <td id="2020-2-12" class="date"><b>Feb 12</b></td>
   <td class="lecture">
 	<b>Lec 4:</b> Time & clocks, primary-backup</td>
-  <td class="assignment">
-	<b><a href="./lab2.html">Lab 2</a></b> assigned<br/>
+  <td class="deadline">
+	<span class="hwdue"><a href="https://github.com/cs675-spring20-projs/lab1">Lab 1</a> due</span><br/>
+	<b>Lab 2</b> out<br/>
 	<span class="reading">XXX</span></td>
   <td class="optional">XXX</td>
 </tr>
@@ -141,7 +142,7 @@ The course schedule is tentative and subject to change.
   <td class="exam">
 	<b>Midterm exam</b> </td>
   <td class="deadline">
-	<span class="hwdue"><a href="./lab2.html">Lab 2</a> due</span></td>
+	<span class="hwdue">Lab 2 due</span></td>
   <td></td>
 </tr>
 <tr> <!-- week of Mar 9 -->
