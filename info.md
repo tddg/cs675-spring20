@@ -10,7 +10,7 @@ The only prerequisite is CS571. However, if you believe you
 have some of the following background: 
 
 * familiar with (operating/distributed/computer) systems;
-* have taken Mason's undergrad operating systems course (CS471) and got a B+ or better;
+* have taken Mason's undergrad operating systems course (CS471) and got a B- or better;
 * know how networks work (CS455);
 * have had industry experience. 
 
