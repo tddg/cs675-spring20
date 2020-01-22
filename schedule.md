@@ -91,7 +91,7 @@ The course schedule is tentative and subject to change.
 	[<a href="./public/precept1_handout2.docx">go_systems_programming</a>] <br/>
 	<b><a href="https://github.com/cs675-spring20-projs/lab0">Lab 0</a></b> out
 	</td>
-  <td class="optional">XXX</td>
+  <td></td>
 </tr>
 <tr> <!-- week of Jan 27 -->
   <td id="2020-1-29" class="date"><b>Jan 29</b></td>
