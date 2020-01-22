@@ -84,7 +84,7 @@ The course schedule is tentative and subject to change.
 <tr> <!-- week of Jan 20 -->
   <td id="2020-1-22" class="date"><b>Jan 22</b></td>
   <td class="lecture">
-	<b>Lec 1:</b> Introduction, <br/> 
+	<b>Lec 1:</b> <a href="./public/lec1-intro.pdf">Introduction</a>, <br/> 
 		Go systems programming</td>
   <td class="assignment">
 	<b><a href="https://github.com/cs675-spring20-projs/lab0">Lab 0</a></b> out<br/>
