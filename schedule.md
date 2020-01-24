@@ -98,8 +98,9 @@ The course schedule is tentative and subject to change.
   <td class="lecture">
 	<b>Lec 2:</b> Remote procedure call, RPCs in Go</td>
   <td class="deadline">
-	<span class="hwdue"><a href="https://github.com/cs675-spring20-projs/lab0">Lab 0</a> due</span><br/>
-	<b><a href="https://github.com/cs675-spring20-projs/lab1">Lab 1</a></b> out</td>
+	<span class="hwdue"><a href="https://github.com/cs675-spring20-projs/lab0">Lab 0</a> due EOD Friday 01/31</span><br/>
+	<!--b><a href="https://github.com/cs675-spring20-projs/lab1">Lab 1</a></b> out</td-->
+	<b>Lab 1</b> out</td>
   <td class="optional">XXX</td>
 </tr>
 <tr> <!-- week of Feb 3 -->
