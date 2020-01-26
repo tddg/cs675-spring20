@@ -71,7 +71,7 @@ table.calendar thead tr {
 }
 </style>
 
-The course schedule is tentative and subject to change.
+The course schedule is tentative and subject to change. You can find our reading list [here]({{ site.baseurl }}/reading_list.html).
 <p>
 <table class="calendar" cellspacing="0" cellpadding="6" width="100%">
  <thead>
