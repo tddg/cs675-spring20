@@ -174,35 +174,35 @@ The course schedule is tentative and subject to change.
 <tr> <!-- week of Mar 30 -->
   <td id="2020-4-1" class="date"><b>Apr 1</b></td>
   <td class="lecture">
-	<b>Lec 8:</b> Serverless computing</td>
+	<b>Lec 8:</b> Serverless computing I</td>
   <td class="nodue">
-	<span class="reading">Berkeley's view of serverless computing</span></td>
+	<span class="reading">Berkeley's view of serverless computing, InfiniCache</span></td>
   <td class="optional">OpenLambda, SOCK, Wukong</td>
 </tr>
 <tr> <!-- week of Apr 6 -->
   <td id="2020-4-8" class="date"><b>Apr 8</b></td>
   <td class="lecture">
-	<b>Lec 9:</b> Infrastructure, DC/OS</td>
+	<b>Lec 9:</b> Serverless computing II</td>
   <td class="nodue">
-	<span class="reading">DC/OS, Borg, Mesos</span></td>
-  <td class="optional">Google datacenter workload analysis, Hadoop YARN, Quasar, Omega</td>
+	<span class="reading">Firecracker</span></td>
+  <td class="optional">PyWren, ExCamera</td>
 </tr>
 <tr> <!-- week of Apr 13 -->
   <td id="2020-4-15" class="date"><b>Apr 15</b></td>
   <td class="lecture">
-	<b>Lec 10:</b> Cluster scheduling: Late scheduling, Sparrow</td>
+	<b>Lec 10:</b> Infrastructure, DC/OS</td>
   <td class="deadline">
 	<span class="hwdue">Project checkpoint report due</span><br/>
-	<span class="reading">Late, Sparrow</span></td>
-  <td class="optional">??</td>
+	<span class="reading">DC/OS, Borg, Mesos</span></td>
+  <td class="optional">Google datacenter workload analysis, Hadoop YARN, Quasar, Omega</td>
 </tr>
 <tr> <!-- week of Apr 20 -->
   <td id="2020-4-22" class="date"><b>Apr 22</b></td>
   <td class="lecture">
-	<b>Lec 11:</b> Deep learning</td>
+	<b>Lec 11:</b> Machine learning systems</td>
   <td class="nodue">
-	<span class="reading">Parameter server, TensorFlow</span></td>
-  <td class="optional">MXNet, Ray, Applied ML at Facebook</td>
+	<span class="reading">Parameter server, Ray</span></td>
+  <td class="optional">MXNet, TensorFlow, Applied ML at Facebook</td>
 </tr>
 <tr> <!-- week of Apr 27 -->
   <td id="2020-4-29" class="date"><b>Apr 29</b></td>
