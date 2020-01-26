@@ -84,11 +84,11 @@ The course schedule is tentative and subject to change.
 <tr> <!-- week of Jan 20 -->
   <td id="2020-1-22" class="date"><b>Jan 22</b></td>
   <td class="lecture">
-	<b>Lec 1:</b> <a href="./public/lec1-intro.pdf">Introduction</a>, <br/> 
-		<a href="./public/precept1_go_basics.pdf">Go systems programming</a></td>
+	<b>Lec 1:</b> Introduction [<a href="./public/slides/lec1-intro.pdf">slides</a>], <br/> 
+		Go systems programming [<a href="./public/slides/precept1_go_basics.pdf">slides</a>] [<a href="./public/slides+notes/precept1_go_basics+notes.pdf">slides+notes</a>]</td>
   <td class="assignment">
-	[<a href="./public/precept1_handout.docx">syntax</a>] <br/>
-	[<a href="./public/precept1_handout2.docx">go_systems_programming</a>] <br/>
+	[<a href="./public/slides/precept1_handout.docx">syntax</a>] <br/>
+	[<a href="./public/slides/precept1_handout2.docx">go_systems_programming</a>] <br/>
 	<b><a href="https://github.com/cs675-spring20-projs/lab0">Lab 0</a></b> out
 	</td>
   <td></td>
