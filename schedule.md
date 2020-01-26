@@ -76,8 +76,8 @@ The course schedule is tentative and subject to change.
 <table class="calendar" cellspacing="0" cellpadding="6" width="100%">
  <thead>
   <tr>
-   <td width="10%">Date</td><td width="30%">Topic</td>
-   <td width="30%">Required reading/assignment</td><td width="30%">Optional reading</td>
+   <td width="7%">Date</td><td width="43%">Topic</td>
+   <td width="30%">Required reading/assignment</td><td width="20%">Optional reading</td>
   </tr>
  </thead>
 
