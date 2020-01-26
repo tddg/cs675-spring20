@@ -9,7 +9,7 @@ permalink: /reading_list.html
 
 ### Big Data Systems
 
-[MapReduce: Simplified Data Processing on Large Clusters](./papers/mapreduce_osdi04.pdf) [USENIX OSDI 2004]
+[MapReduce: Simplified Data Processing on Large Clusters](./public/mapreduce_osdi04.pdf) [USENIX OSDI 2004]
 
 [The Google File System](./docs/gfs_sosp03.pdf) [ACM SOSP 2003] (*optional*)
 
