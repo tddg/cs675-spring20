@@ -76,8 +76,8 @@ The course schedule is tentative and subject to change. You can find our reading
 <table class="calendar" cellspacing="0" cellpadding="6" width="100%">
  <thead>
   <tr>
-   <td width="8%">Date</td><td width="47%">Topic</td>
-   <td width="30%">Required reading/assignment</td><td width="15%">Optional reading</td>
+   <td width="8%">Date</td><td width="45%">Topic</td>
+   <td width="30%">Required reading/assignment</td><td width="17%">Optional reading</td>
   </tr>
  </thead>
 
