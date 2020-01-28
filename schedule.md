@@ -84,11 +84,12 @@ The course schedule is tentative and subject to change. You can find our reading
 <tr> <!-- week of Jan 20 -->
   <td id="2020-1-22" class="date"><b>Jan 22</b></td>
   <td class="lecture">
-	<b>Lec 1:</b> Introduction [<a href="./public/slides/lec1-intro.pdf">slides</a>], <br/> 
-		Go systems programming [<a href="./public/slides/precept1_go_basics.pdf">slides</a>] [<a href="./public/slides+notes/precept1_go_basics+notes.pdf">slides+notes</a>]</td>
+	<b>Lec 1:</b> Introduction [<a href="./public/lecs/lec1-intro.pdf">slides</a>], <br/> 
+		Go systems programming [<a href="./public/lecs/precept1_go_basics.pdf">slides</a>] 
+			[<a href="./public/lecs/precept1_go_basics+notes.pdf">slides+notes</a>]</td>
   <td class="assignment">
-	[<a href="./public/slides/precept1_handout.docx">syntax</a>] <br/>
-	[<a href="./public/slides/precept1_handout2.docx">go_systems_programming</a>] <br/>
+	[<a href="./public/lecs/precept1_handout.docx">syntax</a>] <br/>
+	[<a href="./public/lecs/precept1_handout2.docx">go_systems_programming</a>] <br/>
 	<b><a href="https://github.com/cs675-spring20-projs/lab0">Lab 0</a></b> out
 	</td>
   <td></td>
@@ -96,12 +97,12 @@ The course schedule is tentative and subject to change. You can find our reading
 <tr> <!-- week of Jan 27 -->
   <td id="2020-1-29" class="date"><b>Jan 29</b></td>
   <td class="lecture">
-	<b>Lec 2:</b> Remote procedure call, RPCs in Go</td>
+	<b>Lec 2:</b> Remote procedure call, RPCs in Go [<a href="./public/lecs/lec2-rpc.pdf">slides</a>]</td>
   <td class="deadline">
 	<span class="hwdue"><a href="https://github.com/cs675-spring20-projs/lab0">Lab 0</a> due EOD Friday 01/31</span><br/>
 	<!--b><a href="https://github.com/cs675-spring20-projs/lab1">Lab 1</a></b> out</td-->
-	<b>Lab 1</b> out</td>
-  <td class="optional">XXX</td>
+	<!--b>Lab 1</b> out</td-->
+  <td></td>
 </tr>
 <tr> <!-- week of Feb 3 -->
   <td id="2020-2-5" class="date"><b>Feb 5</b></td>
