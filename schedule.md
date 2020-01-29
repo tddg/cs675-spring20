@@ -90,6 +90,7 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="assignment">
 	[<a href="./public/lecs/precept1_handout.docx">syntax</a>] <br/>
 	[<a href="./public/lecs/precept1_handout2.docx">go_systems_programming</a>] <br/>
+	[<a href="./public/lecs/precept1_sol.tar.gz">precept1 solutions</a>] <br/>
 	<b><a href="https://github.com/cs675-spring20-projs/lab0">Lab 0</a></b> out
 	</td>
   <td></td>
