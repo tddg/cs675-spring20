@@ -122,7 +122,7 @@ Make sure that your code has proper indentation, descriptive comments,
 and a comment header at the beginning of each file, which includes
 your name, userid, and a description of the file.
 
-<p>It is recommended to use the standard tools `gofmt` and `go vet`. 
+It is recommended to use the standard tools `gofmt` and `go vet`. 
 You can also use the <a href="https://github.com/qiniu/checkstyle">Go Checkstyle</a> tool for
 advice on how to improve your code's style. It would also be advisable to
 produce code that complies with <a href="https://github.com/golang/lint">Golint</a> where possible. 
