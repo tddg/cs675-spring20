@@ -102,7 +102,7 @@ The course schedule is tentative and subject to change. You can find our reading
 			[<a href="./public/lecs/lec2-rpc+notes.pdf">slides+notes</a>]</td>
   <td class="deadline">
 	[<a href="./public/lecs/precept2_handout.pdf">wc client+server</a>] <br/>
-	<span class="hwdue"><a href="https://github.com/cs675-spring20-projs/lab0">Lab 0</a> due EOD Friday 01/31</span><br/>
+	<span class="hwdue"><a href="https://github.com/cs675-spring20-projs/lab0">Lab 0</a> due midnight Friday 01/31</span><br/>
 	<!--b><a href="https://github.com/cs675-spring20-projs/lab1">Lab 1</a></b> out</td-->
 	<!--b>Lab 1</b> out</td-->
 	</td>
