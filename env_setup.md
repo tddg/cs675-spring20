@@ -37,7 +37,7 @@ of the project to **Private**.
 Before cloning your GitLab repo to your student.cs computing environment,
 you will need to first create an RSA SSH key by typing:
 
-```
+```bash
 % ssh-keygen -t rsa -C "your_email_addr"
 ```
 
@@ -57,7 +57,7 @@ Then, create a new directory called <tt>cs675-spring20-labs</tt> under your `$HO
 `cd` to your working directory where you are supposed to put your os161 source code,
 and clone your created GitLab repo on to your server:
 
-```
+```bash
 % mkdir $HOME/cs675-spring20-labs
 % cd $HOME/cs675-spring20-labs 
 % git clone git@git.gmu.edu:cs675-spring20-labs/lab1.git
