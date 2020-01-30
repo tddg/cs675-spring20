@@ -29,7 +29,9 @@ for some reason.
 For both Lab 1 and Lab 2, make sure you fork
 the original project GitLab repositories and then change the permission
 of the project to **Private**.
-
+After the repository has been forked, go to your forked project, from
+`Settings`, go to `General`, from there change `Visibility` level to 
+`Private`.
 
 
 ## Step 2: Clone Your Private GitLab Repo
