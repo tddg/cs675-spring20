@@ -1,4 +1,7 @@
 
+- date: <strong>01/30/2020</strong>
+  headline: "Added <a href='{{ site.baseurl }}/env_setup.html'>Environment Setup instructions</a>."
+
 - date: <strong>01/28/2020</strong>
   headline: "Lec 2 is posted."
 
