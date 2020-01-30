@@ -113,8 +113,9 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="lecture">
 	<b>Lec 3:</b> MapReduce, concurrency in Go</td>
   <td class="nodue">
-	<span class="reading">MapReduce</span></td>
-  <td class="optional">Google File System</td>
+	<span class="reading"><a href="./public/papers/mapreduce_osdi04.pdf">MapReduce</a></span></td>
+  <td class="optional"><a href="./public/papers/gfs_sosp03.pdf">Google File System</a><br/>
+		Fun read: <a href="https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge">The friendship that made Google huge</a></td>
 </tr>
 <tr> <!-- week of Feb 10 -->
   <td id="2020-2-12" class="date"><b>Feb 12</b></td>
