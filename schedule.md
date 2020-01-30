@@ -98,7 +98,8 @@ The course schedule is tentative and subject to change. You can find our reading
 <tr> <!-- week of Jan 27 -->
   <td id="2020-1-29" class="date"><b>Jan 29</b></td>
   <td class="lecture">
-	<b>Lec 2:</b> Remote procedure call, RPCs in Go [<a href="./public/lecs/lec2-rpc.pdf">slides</a>]</td>
+	<b>Lec 2:</b> Remote procedure call, RPCs in Go [<a href="./public/lecs/lec2-rpc.pdf">slides</a>]
+			[<a href="./public/lecs/lec2-rpc+notes.pdf">slides+notes</a>]</td>
   <td class="deadline">
 	[<a href="./public/lecs/precept2_handout.pdf">wc client+server</a>] <br/>
 	<span class="hwdue"><a href="https://github.com/cs675-spring20-projs/lab0">Lab 0</a> due EOD Friday 01/31</span><br/>
