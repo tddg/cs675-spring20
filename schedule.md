@@ -122,8 +122,8 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="lecture">
 	<b>Lec 4:</b> Time & clocks, primary-backup</td>
   <td class="deadline">
-	<span class="hwdue"><a href="https://github.com/cs675-spring20-projs/lab1">Lab 1</a> due</span><br/>
-	<b>Lab 2</b> out<br/>
+	<!--span class="hwdue">Lab 1 due</span><br/-->
+	<!--b>Lab 2</b> out<br/-->
 	<span class="reading">XXX</span></td>
   <td class="optional">XXX</td>
 </tr>
