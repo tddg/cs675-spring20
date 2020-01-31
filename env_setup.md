@@ -93,7 +93,6 @@ Please let me (the instructor) know that you've gotten this far in the lab, by p
 ```bash
 $ git tag -a -m "i got git and cloned the labs" gotgit
 $ git push origin gotgit
-$
 ```
 
 As you complete parts of the labs (and begin future labs), it is a
