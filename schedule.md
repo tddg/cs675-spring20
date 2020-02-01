@@ -104,7 +104,6 @@ The course schedule is tentative and subject to change. You can find our reading
 	[<a href="./public/lecs/precept2_handout.pdf">wc client+server</a>] <br/>
 	<span class="hwdue"><a href="https://github.com/cs675-spring20-projs/lab0">Lab 0</a> due midnight Friday 01/31</span><br/>
 	<b><a href="https://git.gmu.edu/cs675-spring20-labs/lab1">Lab 1</a></b> out</td>
-	</td>
   <td></td>
 </tr>
 <tr> <!-- week of Feb 3 -->
