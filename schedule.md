@@ -103,8 +103,7 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="deadline">
 	[<a href="./public/lecs/precept2_handout.pdf">wc client+server</a>] <br/>
 	<span class="hwdue"><a href="https://github.com/cs675-spring20-projs/lab0">Lab 0</a> due midnight Friday 01/31</span><br/>
-	<!--b><a href="https://github.com/cs675-spring20-projs/lab1">Lab 1</a></b> out</td-->
-	<!--b>Lab 1</b> out</td-->
+	<b><a href="https://git.gmu.edu/cs675-spring20-labs/lab1">Lab 1</a></b> out</td>
 	</td>
   <td></td>
 </tr>
@@ -122,7 +121,7 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="lecture">
 	<b>Lec 4:</b> Time & clocks, primary-backup</td>
   <td class="deadline">
-	<!--span class="hwdue">Lab 1 due</span><br/-->
+	<span class="hwdue"><a href="https://git.gmu.edu/cs675-spring20-labs/lab1">Lab 1</a> due</span><br/>
 	<!--b>Lab 2</b> out<br/-->
 	<span class="reading">XXX</span></td>
   <td class="optional">XXX</td>
