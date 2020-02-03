@@ -54,14 +54,15 @@ the SSH-based access has been successfully set.
 
 Click on the **Clone** button at the right-top corner of your GitLab repo's webpage,
 copy the string under **Clone with SSH** to clipboard.
-Then, create a new directory called <tt>cs675-spring20-labs</tt> under your `$HOME` directory
-(of your Linux machine, Zeus, or an EC2 virtual machine box, or whatever you have), 
+Then, create a new directory called <tt>cs675-spring20-labs</tt> under `$HOME/go/src` directory
+(of your Linux machine, or an EC2 virtual machine box, or whatever you have), 
 `cd` to your working directory where you are supposed to put your os161 source code,
 and clone your created GitLab repo on to your server:
 
 ```bash
-% mkdir $HOME/cs675-spring20-labs
-% cd $HOME/cs675-spring20-labs 
+% cd 
+% mkdir -p go/src/cs675-spring20-labs
+% cd go/src/cs675-spring20-labs 
 % git clone git@git.gmu.edu:cs675-spring20-labs/lab1.git
 ```
 
