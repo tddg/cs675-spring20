@@ -109,7 +109,8 @@ The course schedule is tentative and subject to change. You can find our reading
 <tr> <!-- week of Feb 3 -->
   <td id="2020-2-5" class="date"><b>Feb 5</b></td>
   <td class="lecture">
-	<b>Lec 3:</b> MapReduce, concurrency in Go [<a href="./public/lecs/lec3-mr-concurrency.pdf">slides</a>]</td>
+	<b>Lec 3:</b> MapReduce, concurrency in Go [<a href="./public/lecs/lec3-mr-concurrency.pdf">slides</a>]
+		[<a href="./public/lecs/lec3-mr-concurrency+notes.pdf">slides+notes</a>]</td>
   <td class="nodue">
 	<span class="reading"><a href="./public/papers/mapreduce_osdi04.pdf">MapReduce</a></span></td>
   <td class="optional"><a href="./public/papers/gfs_sosp03.pdf">Google File System</a><br/>
