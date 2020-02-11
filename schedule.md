@@ -122,7 +122,7 @@ The course schedule is tentative and subject to change. You can find our reading
 	<b>Lec 4:</b> Time & clocks, primary-backup [<a href="./public/lecs/lec4-time-pb.pdf">pdf slides</a>]
 		[<a href="./public/lecs/lec4-time-pb-uploaded.pptx">pptx</a>]</td>
   <td class="deadline">
-	<span class="hwdue"><a href="https://git.gmu.edu/cs675-spring20-labs/lab1">Lab 1</a> due</span><br/>
+	<span class="hwdue"><a href="https://git.gmu.edu/cs675-spring20-labs/lab1">Lab 1</a> due midnight Friday 02/14</span><br/>
 	<b>Lab 2</b> out<br/></td>
   <td></td>
 </tr>
