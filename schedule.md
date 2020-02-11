@@ -119,7 +119,8 @@ The course schedule is tentative and subject to change. You can find our reading
 <tr> <!-- week of Feb 10 -->
   <td id="2020-2-12" class="date"><b>Feb 12</b></td>
   <td class="lecture">
-	<b>Lec 4:</b> Time & clocks, primary-backup [<a href="./public/lecs/lec4-time-pb.pdf">slides</a>]</td>
+	<b>Lec 4:</b> Time & clocks, primary-backup [<a href="./public/lecs/lec4-time-pb.pdf">pdf slides</a>]
+		[<a href="./public/lecs/lec4-time-pb-uploaded.pptx">pptx</a>]</td>
   <td class="deadline">
 	<span class="hwdue"><a href="https://git.gmu.edu/cs675-spring20-labs/lab1">Lab 1</a> due</span><br/>
 	<!--b>Lab 2</b> out<br/-->
