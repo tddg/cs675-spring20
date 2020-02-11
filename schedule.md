@@ -123,9 +123,8 @@ The course schedule is tentative and subject to change. You can find our reading
 		[<a href="./public/lecs/lec4-time-pb-uploaded.pptx">pptx</a>]</td>
   <td class="deadline">
 	<span class="hwdue"><a href="https://git.gmu.edu/cs675-spring20-labs/lab1">Lab 1</a> due</span><br/>
-	<!--b>Lab 2</b> out<br/-->
-	<span class="reading">XXX</span></td>
-  <td class="optional">XXX</td>
+	<b>Lab 2</b> out<br/>
+  <td></td>
 </tr>
 <tr> <!-- week of Feb 17 -->
   <td id="2020-2-19" class="date"><b>Feb 19</b></td>
