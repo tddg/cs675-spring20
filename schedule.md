@@ -123,7 +123,7 @@ The course schedule is tentative and subject to change. You can find our reading
 		[<a href="./public/lecs/lec4-time-pb-uploaded.pptx">pptx</a>]</td>
   <td class="deadline">
 	<span class="hwdue"><a href="https://git.gmu.edu/cs675-spring20-labs/lab1">Lab 1</a> due midnight Friday 02/14</span><br/>
-	<b>Lab 2</b> out<br/></td>
+	<b><a href="https://git.gmu.edu/cs675-spring20-labs/lab2">Lab 2</a></b> out</td>
   <td></td>
 </tr>
 <tr> <!-- week of Feb 17 -->
@@ -149,7 +149,7 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="exam">
 	<b>Midterm exam</b> </td>
   <td class="deadline">
-	<span class="hwdue">Lab 2 due</span></td>
+	<span class="hwdue"><a href="https://git.gmu.edu/cs675-spring20-labs/lab2">Lab 2</a> due midnight Monday 03/02</span></td>
   <td></td>
 </tr>
 <tr> <!-- week of Mar 9 -->
