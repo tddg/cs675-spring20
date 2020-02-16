@@ -19,6 +19,8 @@ permalink: /reading_list.html
 
 [In Search of an Understandable Consensus Algorithm]({{ site.baseurl }}/public/papers/raft_atc14.pdf) [USENIX ATC 2014]
 
+[Paxos Made Live - An Engineering Perspective]({{ site.baseurl }}/public/papers/paxos_live.pdf) (*optional*)
+
 [The Chubby Lock Service for Loosely-Coupled Distributed Systems]({{ site.baseurl }}/public/papers/chubby_osdi06.pdf) [USENIX OSDI 2006] (*optional*)
 
 [ZooKeeper: Wait-free coordination for Internet-scale systems]({{ site.baseurl }}/public/papers/zk_atc10.pdf) [USENIX ATC 2010] (*optional*)
