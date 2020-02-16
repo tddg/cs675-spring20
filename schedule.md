@@ -132,7 +132,7 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="lecture">
 	<b>Lec 5:</b> Distributed consensus (Paxos + Raft)</td>
   <td class="nodue">
-	<span class="reading"><a href="./public/papers/paxos_simple.pdf">Paxos made simple</a>, 
+	<span class="reading"><a href="./public/papers/paxos_simple.pdf">Paxos made simple</a>, <br/>
 		<a href="./public/papers/raft_atc14.pdf">Raft</a></span></td>
   <td class="optional"><a href="./public/papers/paxos_live.pdf">Paxos made live</a>,<br/>
 		<a href="./public/papers/chubby_osdi06.pdf">Chubby</a>, <br/>
