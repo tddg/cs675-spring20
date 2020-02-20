@@ -130,8 +130,9 @@ The course schedule is tentative and subject to change. You can find our reading
 <tr> <!-- week of Feb 17 -->
   <td id="2020-2-19" class="date"><b>Feb 19</b></td>
   <td class="lecture">
-	<b>Lec 5:</b> Distributed consensus [<a href="./public/lecs/lec5-consensus.pdf">slides</a>],<br/>
-		Paxos [<a href="./public/lecs/paxos.pdf">slides</a>], <br/>
+	<b>Lec 5:</b> Distributed consensus [<a href="./public/lecs/lec5-consensus.pdf">slides</a>] 
+		[<a href="./public/lecs/lec5-consensus+notes.pdf">slides+notes</a>],<br/>
+		Paxos [<a href="./public/lecs/paxos.pdf">slides</a>] [<a href="./public/lecs/paxos+notes.pdf">slides+notes</a>], <br/>
 		Raft [<a href="./public/lecs/raft.pdf">slides</a>]</td>
   <td class="nodue">
 	<span class="reading"><a href="./public/papers/paxos_simple.pdf">Paxos made simple</a>, <br/>
