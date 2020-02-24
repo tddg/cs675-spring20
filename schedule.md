@@ -145,7 +145,7 @@ The course schedule is tentative and subject to change. You can find our reading
   <td id="2020-2-26" class="date"><b>Feb 26</b></td>
   <td class="holiday">
 	<b>Traveling to FAST</b> (NO CLASS)<br/>
-	<b>Midterm review [<a href="./public/lecs/midterm-review.pdf">slides</a>]</b>
+	<b>Midterm review [<a href="./public/lecs/midterm-review.pdf">slides</a>]</b><br/>
 	...and also, Hack Day!</td>
   <td class="assignment">
 	Project ideas released: Pick your project <br/></td>
