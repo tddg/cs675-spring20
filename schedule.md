@@ -171,8 +171,7 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="lecture">
 	<b>Lec 6:</b> Raft [<a href="./public/lecs/raft.pdf">slides</a>], <br/>  
 		Spark </td>
-  <td class="deadline">
-	<span class="hwdue">Project proposal due</span><br/>
+  <td class="nodue">
 	<span class="reading">Spark</span></td>
   <td></td>
 </tr>
@@ -180,7 +179,8 @@ The course schedule is tentative and subject to change. You can find our reading
   <td id="2020-3-25" class="date"><b>Mar 25</b></td>
   <td class="lecture">
 	<b>Lec 7:</b> NoSQL, Memcached</td>
-  <td class="nodue">
+  <td class="deadline">
+	<span class="hwdue">Project proposal due</span><br/>
 	<span class="reading">Dynamo, Facebook memcache</span></td>
   <td class="optional">BigTable, Spanner</td>
 </tr>
@@ -197,7 +197,7 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="lecture">
 	<b>Lec 9:</b> Serverless computing II</td>
   <td class="nodue">
-	<span class="reading">Firecracker</span></td>
+	<span class="reading">Firecracker, Wukong</span></td>
   <td class="optional">PyWren, ExCamera</td>
 </tr>
 <tr> <!-- week of Apr 13 -->
