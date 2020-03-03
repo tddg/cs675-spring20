@@ -156,7 +156,7 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="exam">
 	<b>Midterm exam</b> </td>
   <td class="deadline">
-	<span class="hwdue"><a href="https://git.gmu.edu/cs675-spring20-labs/lab2">Lab 2</a> due midnight Monday 03/02</span></td>
+	<span class="hwdue"><a href="https://git.gmu.edu/cs675-spring20-labs/lab2">Lab 2</a> due midnight Wednesday 03/04</span></td>
   <td></td>
 </tr>
 <tr> <!-- week of Mar 9 -->
