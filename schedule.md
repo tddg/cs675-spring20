@@ -169,7 +169,8 @@ The course schedule is tentative and subject to change. You can find our reading
 <tr> <!-- week of Mar 16 -->
   <td id="2020-3-18" class="date"><b>Mar 18</b></td>
   <td class="lecture">
-	<b>Lec 6:</b> Spark (YouTube video)</td>
+	<b>Lec 6:</b> Raft [<a href="./public/lecs/raft.pdf">slides</a>], <br/>  
+		Spark </td>
   <td class="deadline">
 	<span class="hwdue">Project proposal due</span><br/>
 	<span class="reading">Spark</span></td>
