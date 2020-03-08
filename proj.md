@@ -4,7 +4,7 @@ title: "Final Project"
 permalink: /proj.html
 ---
 
-## Project Proposal Report
+## Project Milestone 1: Proposal Report
 
 Recommended structure for the Proposal Report is:
 
@@ -25,7 +25,7 @@ To submit, do the following: Email your proposal report as an email attachment (
 line "CS 675 Proposal Report" to yuecheng at gmu dot edu .
 
 
-## Project Checkpoint Report
+## Project Milestone 2: Checkpoint Report
 
 Your Project Checkpoint Report needs to have (1) some algorithms, (2)
 some initial implementation, and (3) most importantly, **some initial
@@ -52,7 +52,7 @@ attachment (pdf only) with Subject line "CS 675 Project Checkpoint Report" to
 yuecheng at gmu dot edu .
 
 
-### Project Final Report
+### Project Milestone 3: Final Report
 
 The final deliverable of this course is **a conference-quality paper**.
 Focus on the following Questions 0 through 5 (an extended version of
