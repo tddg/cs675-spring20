@@ -148,7 +148,7 @@ The course schedule is tentative and subject to change. You can find our reading
 	<b>Midterm review</b> [<a href="./public/lecs/midterm-review.pdf">slides</a>]<br/>
 	...and also, Hack Day!</td>
   <td class="assignment">
-	Project ideas released: Pick your project <br/></td>
+	Project ideas released: <a href="./proj.html">Pick your project</a> <br/></td>
   <td></td>
 </tr>
 <tr> <!-- week of Mar 2 -->
