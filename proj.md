@@ -10,10 +10,10 @@ Recommended structure for the Proposal Report is:
 
 * Title + abstract.
 * Related work: Need to have >=15 references, about 1 page (single-spaced, 2-column
-of USENIX paper template). Reference could be papers, websites
+of the USENIX paper template). Reference could be papers, websites
  (e.g., GitHub repos, Internet articles, blog entries, etc.).
 * Motivation + concrete problem statement (need not be formal, only concrete).
-* Approaches/system_design/experiment_design planned to solve the
+* Approaches/system_design/experiment_design proposed / planned to solve the aforementioned
 problems: Initial thoughts + what you have done in design/setups/experimental_tests.
 * Timeline/Expected milestones for achieving your goals.
 
