@@ -180,7 +180,7 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="lecture">
 	<b>Lec 7:</b> NoSQL, Memcached</td>
   <td class="deadline">
-	<span class="hwdue">Project proposal due</span><br/>
+	<span class="hwdue">Project proposal due Wednesday 03/25</span><br/>
 	<span class="reading">Dynamo, Facebook memcache</span></td>
   <td class="optional">BigTable, Spanner</td>
 </tr>
@@ -205,7 +205,7 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="lecture">
 	<b>Lec 10:</b> Infrastructure, DC/OS</td>
   <td class="deadline">
-	<span class="hwdue">Project checkpoint report due</span><br/>
+	<span class="hwdue">Project checkpoint report due Wednesday 04/15</span><br/>
 	<span class="reading">DC/OS, Borg, Mesos</span></td>
   <td class="optional">Google datacenter workload analysis, Hadoop YARN, Quasar, Omega</td>
 </tr>
@@ -229,7 +229,7 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="exam">
 	<b>Final exam (take-home exam)</b></td>
   <td class="deadline">
-	<span class="hwdue">Final project report due</span></td>
+	<span class="hwdue">Final project report and src due Friday 05/08</span></td>
   <td></td>
 </tr>
 
