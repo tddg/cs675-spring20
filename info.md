@@ -30,7 +30,7 @@ data-intensive applications.
 Your grade will be calculated as follows:
 
 
-* 30% lab assignments (6% for Lab 0, 12% for Lab 1 and 2)
+* 30% lab assignments (6% for Lab 0, 12% for Lab 1 and 2 each)
 * 10% midterm exam
 * 10% paper reviews
 * 5% class participation
