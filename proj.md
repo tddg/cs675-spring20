@@ -44,7 +44,7 @@ It is ok to use color, but you cannot solely rely on color to
 distinguish datapoints or datalines*.
 
 > **IMPORTANT:** The deadline of Project Checkpoint Report is 11:59pm April 15. You
-should target a writeup of 4-7 pages (you may want to reuse some of the content from your
+should target a writeup of 4-6 pages (you may want to reuse some of the content from your
 proposal report) for main material + any number of pages for
 references. You should again use the [USENIX latex template](https://www.usenix.org/conferences/author-resources/paper-templates).
 To submit, do the following: Email your report as an email
