@@ -14,7 +14,7 @@ permalink: /reading_list.html
 
 [The Case for RAMClouds: Scalable High-Performance Storage Entirely in DRAM]({{ site.baseurl }}/public/papers/ramcloud.pdf) [ACM SIGOPS Operating Systems Review] (*optional*)
 
-[Dryand: Distributed Data-Processing Programs from Sequential Building Blocks]({{ site.baseurl }}/public/papers/dryad_eurosys07.pdf) [ACM EuroSys 2007] (*optional*)
+[Dryad: Distributed Data-Processing Programs from Sequential Building Blocks]({{ site.baseurl }}/public/papers/dryad_eurosys07.pdf) [ACM EuroSys 2007] (*optional*)
 
 
 ## Distributed Consensus
