@@ -172,8 +172,9 @@ The course schedule is tentative and subject to change. You can find our reading
 	<b>Lec 6:</b> Raft [<a href="./public/lecs/raft.pdf">slides</a>], <br/>  
 		Spark </td>
   <td class="nodue">
-	<span class="reading">Spark</span></td>
-  <td></td>
+	<span class="reading"><a href="./public/papers/spark_nsdi12.pdf">Spark</a></span></td>
+  <td class="optional"><a href="./public/papers/ramcloud.pdf">RAMCloud</a>, <br/>
+		<a href="./public/papers/dryad_eurosys07.pdf">Dryad</a></td>
 </tr>
 <tr> <!-- week of Mar 23 -->
   <td id="2020-3-25" class="date"><b>Mar 25</b></td>
