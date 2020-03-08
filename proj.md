@@ -52,7 +52,7 @@ attachment (pdf only) with Subject line "CS 675 Project Checkpoint Report" to
 yuecheng at gmu dot edu .
 
 
-### Project Milestone 3: Final Report
+## Project Milestone 3: Final Report
 
 The final deliverable of this course is **a conference-quality paper**.
 Focus on the following Questions 0 through 5 (an extended version of
