@@ -162,12 +162,18 @@ The course schedule is tentative and subject to change. You can find our reading
 <tr> <!-- week of Mar 9 -->
   <td id="2020-3-11" class="date"><b>Mar 11</b></td>
   <td class="holiday">
-	<b>Spring recess</b> (NO CLASS)</td>
-  <td class="holiday">Enjoy or catchup?!</td>
+	<b>Spring Recess</b> (NO CLASS)</td>
+  <td class="holiday"></td>
   <td></td>
 </tr>
 <tr> <!-- week of Mar 16 -->
   <td id="2020-3-18" class="date"><b>Mar 18</b></td>
+  <td class="holiday">
+	<b>Extended Spring Recess</b> (NO CLASS)</td>
+  <td class="holiday"></td>
+</tr>
+<tr> <!-- week of Mar 23 -->
+  <td id="2020-3-25" class="date"><b>Mar 25</b></td>
   <td class="lecture">
 	<b>Lec 6:</b> Raft [<a href="./public/lecs/raft.pdf">slides</a>], <br/>  
 		Spark </td>
@@ -176,44 +182,41 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="optional"><a href="./public/papers/ramcloud.pdf">RAMCloud</a>, <br/>
 		<a href="./public/papers/dryad_eurosys07.pdf">Dryad</a></td>
 </tr>
-<tr> <!-- week of Mar 23 -->
-  <td id="2020-3-25" class="date"><b>Mar 25</b></td>
-  <td class="lecture">
-	<b>Lec 7:</b> NoSQL, Memcached</td>
-  <td class="deadline">
-	<span class="hwdue">Project proposal due Wednesday 03/25</span><br/>
-	<span class="reading">Dynamo, Facebook memcache</span></td>
-  <td class="optional">BigTable, Spanner</td>
-</tr>
 <tr> <!-- week of Mar 30 -->
   <td id="2020-4-1" class="date"><b>Apr 1</b></td>
   <td class="lecture">
-	<b>Lec 8:</b> Serverless computing I</td>
-  <td class="nodue">
+	<b>Lec 7:</b> Serverless computing I</td>
+  <td class="deadline">
+	<span class="hwdue">Project proposal due Wednesday 04/01</span><br/>
 	<span class="reading">Berkeley's view of serverless computing, InfiniCache</span></td>
-  <td class="optional">OpenLambda, SOCK, Wukong</td>
+  <td class="optional">OpenLambda, SOCK</td>
 </tr>
 <tr> <!-- week of Apr 6 -->
   <td id="2020-4-8" class="date"><b>Apr 8</b></td>
   <td class="lecture">
-	<b>Lec 9:</b> Serverless computing II</td>
+	<b>Lec 8:</b> Serverless computing II</td>
   <td class="nodue">
-	<span class="reading">Firecracker, Wukong</span></td>
+	<span class="reading">Firecracker, PyWren, Wukong</span></td>
   <td class="optional">PyWren, ExCamera</td>
 </tr>
 <tr> <!-- week of Apr 13 -->
   <td id="2020-4-15" class="date"><b>Apr 15</b></td>
   <td class="lecture">
+	<b>Lec 9:</b> NoSQL, Memcached</td>
+  <td class="nodue">
+	<span class="reading">Dynamo, Facebook memcache</span></td>
+  <td class="optional">BigTable, Spanner</td>
+  <!--td class="lecture">
 	<b>Lec 10:</b> Infrastructure, DC/OS</td>
   <td class="deadline">
 	<span class="hwdue">Project checkpoint report due Wednesday 04/15</span><br/>
 	<span class="reading">DC/OS, Borg, Mesos</span></td>
-  <td class="optional">Google datacenter workload analysis, Hadoop YARN, Quasar, Omega</td>
+  <td class="optional">Google datacenter workload analysis, Hadoop YARN, Quasar, Omega</td-->
 </tr>
 <tr> <!-- week of Apr 20 -->
   <td id="2020-4-22" class="date"><b>Apr 22</b></td>
   <td class="lecture">
-	<b>Lec 11:</b> Machine learning systems</td>
+	<b>Lec 10:</b> Machine learning systems</td>
   <td class="nodue">
 	<span class="reading">Parameter server, Ray</span></td>
   <td class="optional">MXNet, TensorFlow, Applied ML at Facebook</td>
