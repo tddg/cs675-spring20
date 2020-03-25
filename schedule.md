@@ -176,7 +176,7 @@ The course schedule is tentative and subject to change. You can find our reading
   <td id="2020-3-25" class="date"><b>Mar 25</b></td>
   <td class="lecture">
 	<b>Lec 6:</b> Raft [<a href="./public/lecs/raft.pdf">slides</a>], <br/>  
-		Spark </td>
+		Spark [<a href="./public/lecs/lec6-spark.pdf">slides</a>] </td>
   <td class="nodue">
 	<span class="reading"><a href="./public/papers/spark_nsdi12.pdf">Spark</a></span></td>
   <td class="optional"><a href="./public/papers/ramcloud.pdf">RAMCloud</a>, <br/>
@@ -187,7 +187,7 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="lecture">
 	<b>Lec 7:</b> Serverless computing I</td>
   <td class="deadline">
-	<span class="hwdue">Project proposal due Wednesday 04/01</span><br/>
+	<span class="hwdue">Project proposal due <strike>Wednesday 04/01</strike> Friday 04/03</span><br/>
 	<span class="reading">Berkeley's view of serverless computing, InfiniCache</span></td>
   <td class="optional">OpenLambda, SOCK</td>
 </tr>
