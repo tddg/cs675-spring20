@@ -30,13 +30,6 @@ permalink: /reading_list.html
 [ZooKeeper: Wait-free coordination for Internet-scale systems]({{ site.baseurl }}/public/papers/zk_atc10.pdf) [USENIX ATC 2010] (*optional*)
 
 
-## Large-Scale Distributed Storage
-
-[Dynamo: Amazon’s Highly Available Key-value Store]({{ site.baseurl }}/public/papers/dynamo_sosp07.pdf) [ACM SOSP 2007]
-
-[Scaling Memcache at Facebook]({{ site.baseurl }}/public/papers/memcache_nsdi13.pdf) [USENIX NSDI 2013]
-
-
 ## Serverless Computing
 
 [Cloud Programming Simplified: A Berkeley View on Serverless Computing]({{ site.baseurl }}/public/papers/berkeley_serverless.pdf) [Technical report]
@@ -50,13 +43,11 @@ permalink: /reading_list.html
 [Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads]({{ site.baseurl }}/public/papers/excamera_nsdi17.pdf) [USENIX NSDI 2017] (*optional*)
 
 
-## Datacenter Scheduling
+## Large-Scale Distributed Storage
 
-[Large-scale cluster management at Google with Borg]({{ site.baseurl }}/public/papers/borg_eurosys15.pdf) [ACM EuroSys 2015]
+[Dynamo: Amazon’s Highly Available Key-value Store]({{ site.baseurl }}/public/papers/dynamo_sosp07.pdf) [ACM SOSP 2007]
 
-[Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center]({{ site.baseurl }}/public/papers/mesos_nsdi11.pdf) [USENIX NSDI 2011]
-
-[The Datacenter as a Computer]({{ site.baseurl }}/public/papers/dc_computer.pdf) (*optional*)
+[Scaling Memcache at Facebook]({{ site.baseurl }}/public/papers/memcache_nsdi13.pdf) [USENIX NSDI 2013]
 
 
 ## Distributed Machine Learning Systems
@@ -64,3 +55,13 @@ permalink: /reading_list.html
 [Scaling Distributed Machine Learning with the Parameter Server]({{ site.baseurl }}/public/papers/pserver_osdi14.pdf) [USENIX OSDI 2014]
 
 [Ray: A Distributed Framework for Emerging AI Applications]({{ site.baseurl }}/public/papers/ray_osdi18.pdf) [USENIX OSDI 2018]
+
+
+## Datacenter Scheduling (*optional*)
+
+[Large-scale cluster management at Google with Borg]({{ site.baseurl }}/public/papers/borg_eurosys15.pdf) [ACM EuroSys 2015]
+
+[Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center]({{ site.baseurl }}/public/papers/mesos_nsdi11.pdf) [USENIX NSDI 2011]
+
+[The Datacenter as a Computer]({{ site.baseurl }}/public/papers/dc_computer.pdf) (*optional*)
+
