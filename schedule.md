@@ -188,19 +188,22 @@ The course schedule is tentative and subject to change. You can find our reading
 <tr> <!-- week of Mar 30 -->
   <td id="2020-4-1" class="date"><b>Apr 1</b></td>
   <td class="lecture">
-	<b>Lec 7:</b> Serverless computing I</td>
+	<b>Lec 7:</b> Serverless computing I (trends and background)</td>
   <td class="deadline">
 	<span class="hwdue">Project proposal due <strike>Wednesday 04/01</strike> Friday 04/03</span><br/>
-	<span class="reading">Berkeley's view of serverless computing, InfiniCache</span></td>
-  <td class="optional">OpenLambda, SOCK</td>
+	<span class="reading"><a href="berkeley_serverless.pdf">Berkeley's view of serverless computing</a></span></td>
+  <td class="optional"><a href="https://www.usenix.org/conference/nsdi20/presentation/agache">Firecracker</a>,
+		<a href="https://www.usenix.org/node/196323">OpenLambda</a></td>
 </tr>
 <tr> <!-- week of Apr 6 -->
   <td id="2020-4-8" class="date"><b>Apr 8</b></td>
   <td class="lecture">
-	<b>Lec 8:</b> Serverless computing II</td>
+	<b>Lec 8:</b> Serverless computing II (applications)</td>
   <td class="nodue">
-	<span class="reading">Firecracker, PyWren, Wukong</span></td>
-  <td class="optional">PyWren, ExCamera</td>
+	<span class="reading"><a href="https://www.usenix.org/conference/fast20/presentation/wang-ao">InfiniCache</a>,<br/> 
+		<a href="https://arxiv.org/abs/1910.05896">Wukong</a></span></td>
+  <td class="optional"><a href="https://tddg.github.io/cs675-spring20/public/papers/pywren_socc17.pdf">PyWren</a>,
+		<a href="https://tddg.github.io/cs675-spring20/public/papers/excamera_nsdi17.pdf">ExCamera</a></td>
 </tr>
 <tr> <!-- week of Apr 13 -->
   <td id="2020-4-15" class="date"><b>Apr 15</b></td>

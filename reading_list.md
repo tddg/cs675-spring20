@@ -36,7 +36,9 @@ permalink: /reading_list.html
 
 [InfiniCache: Exploiting Ephemeral Serverless Functions to Build a Cost-Effective Memory Cache](https://www.usenix.org/conference/fast20/presentation/wang-ao) [USENIX FAST 2020]
 
-[Firecracker: Lightweight Virtualization for Serverless Applications](https://www.usenix.org/conference/nsdi20/presentation/brooker-firecracker) [USENIX NSDI 2020]
+[In Search of a Fast and Efficient Serverless DAG Engine](https://arxiv.org/abs/1910.05896) [PDSW 2019]
+
+[Firecracker: Lightweight Virtualization for Serverless Applications](https://www.usenix.org/conference/nsdi20/presentation/brooker-firecracker) [USENIX NSDI 2020] (*optional*)
 
 [Occupying the Cloud: Distributed Computing for the 99%]({{ site.baseurl }}/public/papers/pywren_socc17.pdf) [ACM SoCC 2017] (*optional*)
 
