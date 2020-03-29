@@ -191,7 +191,7 @@ The course schedule is tentative and subject to change. You can find our reading
 	<b>Lec 7:</b> Serverless computing I (trends and background)</td>
   <td class="deadline">
 	<span class="hwdue">Project proposal due <strike>Wednesday 04/01</strike> Friday 04/03</span><br/>
-	<span class="reading"><a href="berkeley_serverless.pdf">Berkeley's view of serverless computing</a></span></td>
+	<span class="reading"><a href="./public/papers/berkeley_serverless.pdf">Berkeley's view of serverless computing</a></span></td>
   <td class="optional"><a href="https://www.usenix.org/conference/nsdi20/presentation/agache">Firecracker</a>,
 		<a href="https://www.usenix.org/node/196323">OpenLambda</a></td>
 </tr>
