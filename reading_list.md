@@ -38,6 +38,8 @@ permalink: /reading_list.html
 
 [In Search of a Fast and Efficient Serverless DAG Engine](https://arxiv.org/abs/1910.05896) [PDSW 2019]
 
+[Serverless Computation with OpenLambda](https://www.usenix.org/node/196323) [USENIX HotCloud 2016] (*optional*)
+
 [Firecracker: Lightweight Virtualization for Serverless Applications](https://www.usenix.org/conference/nsdi20/presentation/brooker-firecracker) [USENIX NSDI 2020] (*optional*)
 
 [Occupying the Cloud: Distributed Computing for the 99%]({{ site.baseurl }}/public/papers/pywren_socc17.pdf) [ACM SoCC 2017] (*optional*)
