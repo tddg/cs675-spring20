@@ -188,7 +188,8 @@ The course schedule is tentative and subject to change. You can find our reading
 <tr> <!-- week of Mar 30 -->
   <td id="2020-4-1" class="date"><b>Apr 1</b></td>
   <td class="lecture">
-	<b>Lec 7:</b> Serverless computing I (trends and background)</td>
+	<b>Lec 7:</b> Serverless computing I (background & trends) [<a href="./public/lecs/lec7-serverless-computing-1.pdf">slides</a>]
+		[<a href="./public/lecs/lec7-serverless-computing-1+notes.pdf">slides+notes</a>]</td>
   <td class="deadline">
 	<span class="hwdue">Project proposal due <strike>Wednesday 04/01</strike> Friday 04/03</span><br/>
 	<span class="reading"><a href="./public/papers/berkeley_serverless.pdf">Berkeley's view of serverless computing</a></span></td>
