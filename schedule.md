@@ -203,7 +203,8 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="nodue">
 	<span class="reading"><a href="https://www.usenix.org/conference/fast20/presentation/wang-ao">InfiniCache</a>,<br/> 
 		<a href="https://arxiv.org/abs/1910.05896">Wukong</a></span></td>
-  <td class="optional"><a href="https://tddg.github.io/cs675-spring20/public/papers/pywren_socc17.pdf">PyWren</a>,
+  <td class="optional"><a href="https://tddg.github.io/cs675-spring20/public/papers/pywren_socc17.pdf">PyWren</a>
+		(<a href="https://arxiv.org/pdf/1810.09679.pdf">numpywren</a>),
 		<a href="https://tddg.github.io/cs675-spring20/public/papers/excamera_nsdi17.pdf">ExCamera</a></td>
 </tr>
 <tr> <!-- week of Apr 13 -->
