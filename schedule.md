@@ -199,7 +199,8 @@ The course schedule is tentative and subject to change. You can find our reading
 <tr> <!-- week of Apr 6 -->
   <td id="2020-4-8" class="date"><b>Apr 8</b></td>
   <td class="lecture">
-	<b>Lec 8:</b> Serverless computing II (applications)</td>
+	<b>Lec 8:</b> Serverless computing II (applications) [<a href="./public/lecs/lec8-infinicache.pdf">infinicache_slides</a>]
+		[<a href="./public/lecs/lec8-wukong.pdf">wukong_slides</a>]</td>
   <td class="nodue">
 	<span class="reading"><a href="https://www.usenix.org/conference/fast20/presentation/wang-ao">InfiniCache</a>,<br/> 
 		<a href="https://arxiv.org/abs/1910.05896">Wukong</a></span></td>
