@@ -12,6 +12,8 @@ permalink: /reading_list.html
 
 [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing]({{ site.baseurl }}/public/papers/spark_nsdi12.pdf) [USENIX NSDI 2012]
 
+[The RAMCloud Storage System]({{ site.baseurl }}/public/papers/ramcloud_tocs15.pdf) [ACM Transactions on Computer Systems] (*optional*)
+
 [The Case for RAMClouds: Scalable High-Performance Storage Entirely in DRAM]({{ site.baseurl }}/public/papers/ramcloud.pdf) [ACM SIGOPS Operating Systems Review] (*optional*)
 
 [Dryad: Distributed Data-Processing Programs from Sequential Building Blocks]({{ site.baseurl }}/public/papers/dryad_eurosys07.pdf) [ACM EuroSys 2007] (*optional*)

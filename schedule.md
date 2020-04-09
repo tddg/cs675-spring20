@@ -182,7 +182,7 @@ The course schedule is tentative and subject to change. You can find our reading
 			  [<a href="./public/lecs/lec6-spark+notes.pdf">pdf+notes</a>] </td>
   <td class="nodue">
 	<span class="reading"><a href="./public/papers/spark_nsdi12.pdf">Spark</a></span></td>
-  <td class="optional"><a href="./public/papers/ramcloud.pdf">RAMCloud</a>, <br/>
+  <td class="optional"><a href="./public/papers/ramcloud_tocs15.pdf">RAMCloud</a>, <br/>
 		<a href="./public/papers/dryad_eurosys07.pdf">Dryad</a></td>
 </tr>
 <tr> <!-- week of Mar 30 -->
