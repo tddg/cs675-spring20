@@ -215,8 +215,9 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="nodue">
 	<span class="reading"><a href="./public/papers/dynamo_sosp07.pdf">Dynamo</a>,<br/>
 		<a href="./public/papers/memcache_nsdi13.pdf">Facebook memcache</a></span></td>
-  <td class="optional"><a href="./public/papers/fbkvs_sigmetrics12.pdf">Workload analysis of Facebook's memcache kv store</a>,<br/>
-		<a href="./public/papers/bigtable_osdi06.pdf">Google's Bigtable</a></td>
+  <td class="optional"><a href="./public/papers/fbkvs_sigmetrics12.pdf">Workload analysis of Facebook's memcache</a>,<br/>
+		<a href="./public/papers/bigtable_osdi06.pdf">Google's Bigtable</a>, <br/>
+		<a href="./public/papers/chord_sigcomm01.pdf">Chord P2P</a></td>
   <!--td class="lecture">
 	<b>Lec 10:</b> Infrastructure, DC/OS</td>
   <td class="deadline">
