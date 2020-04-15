@@ -211,9 +211,10 @@ The course schedule is tentative and subject to change. You can find our reading
 <tr> <!-- week of Apr 13 -->
   <td id="2020-4-15" class="date"><b>Apr 15</b></td>
   <td class="lecture">
-	<b>Lec 9:</b> NoSQL, Memcached</td>
+	<b>Lec 9:</b> Amazon Dynamo [<a href="./public/lecs/lec9-scale-out-kvs-dynamo.pdf">slides</a>],<br/>
+		Facebook memcache [<a href="./public/lecs/lec9-fbmc.pdf">slides</a>]</td>
   <td class="nodue">
-	<span class="reading"><a href="./public/papers/dynamo_sosp07.pdf">Dynamo</a>,<br/>
+	<span class="reading"><a href="./public/papers/dynamo_sosp07.pdf">Amazon Dynamo</a>,<br/>
 		<a href="./public/papers/memcache_nsdi13.pdf">Facebook memcache</a></span></td>
   <td class="optional"><a href="./public/papers/fbkvs_sigmetrics12.pdf">Workload analysis of Facebook's memcache</a>,<br/>
 		<a href="./public/papers/bigtable_osdi06.pdf">Google's Bigtable</a>, <br/>
