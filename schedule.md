@@ -244,7 +244,6 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="nodue">
 	<span class="reading"><a href="./public/papers/ray_osdi18.pdf">Ray</a></span></td>
   <td class="optional">MXNet, TensorFlow, Applied ML at Facebook</td>
-  <td></td>
 </tr>
 <tr> <!-- week of May 4 -->
   <td id="2020-5-6" class="date"><b>May 6</b></td>
