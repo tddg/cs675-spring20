@@ -239,15 +239,22 @@ The course schedule is tentative and subject to change. You can find our reading
 </tr>
 <tr> <!-- week of Apr 27 -->
   <td id="2020-4-29" class="date"><b>Apr 29</b></td>
-  <td class="presentation">
-	<b>Project presentation</b></td>
-  <td></td>
+  <td class="lecture">
+	<b>Lec 11:</b> TBD</td>
+  <td class="nodue"></td>
   <td></td>
 </tr>
 <tr> <!-- week of May 4 -->
   <td id="2020-5-6" class="date"><b>May 6</b></td>
+  <td class="presentation">
+	<b>Project presentation</b></td>
+  <td class="nodue"></td>
+  <td></td>
+</tr>
+<tr> <!-- week of May 11 -->
+  <td id="2020-5-13" class="date"><b>May 6</b></td>
   <td class="exam">
-	<b>Final exam (take-home exam)</b></td>
+	<b>Final exam (TBD)</b></td>
   <td class="deadline">
 	<span class="hwdue">Final project report and src due Friday 05/08</span></td>
   <td></td>
