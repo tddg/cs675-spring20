@@ -242,7 +242,7 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="lecture">
 	<b>Lec 11:</b> Ray RL framework</td>
   <td class="nodue">
-	<span class="reading"><a href="./public/papers/ray_osdi18.pdf">Ray</a></span>></td>
+	<span class="reading"><a href="./public/papers/ray_osdi18.pdf">Ray</a></span></td>
   <td class="optional">MXNet, TensorFlow, Applied ML at Facebook</td>
   <td></td>
 </tr>
