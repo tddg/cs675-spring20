@@ -213,11 +213,11 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="lecture">
 	<b>Lec 9:</b> Amazon Dynamo [<a href="./public/lecs/lec9-scale-out-kvs-dynamo.pdf">slides</a>]
 		[<a href="./public/lecs/lec9-scale-out-kvs-dynamo+notes.pdf">slides+notes</a>],<br/>
-		Facebook memcache [<a href="./public/lecs/lec9-fbmc.pdf">slides</a>]</td>
+		</td>
   <td class="nodue">
 	<span class="reading"><a href="./public/papers/dynamo_sosp07.pdf">Amazon Dynamo</a>,<br/>
-		<a href="./public/papers/memcache_nsdi13.pdf">Facebook memcache</a></span></td>
-  <td class="optional"><a href="./public/papers/fbkvs_sigmetrics12.pdf">Workload analysis of Facebook's memcache</a>,<br/>
+		</span></td>
+  <td class="optional">
 		<a href="./public/papers/bigtable_osdi06.pdf">Google's Bigtable</a>, <br/>
 		<a href="./public/papers/chord_sigcomm01.pdf">Chord P2P</a></td>
   <!--td class="lecture">
@@ -230,9 +230,11 @@ The course schedule is tentative and subject to change. You can find our reading
 <tr> <!-- week of Apr 20 -->
   <td id="2020-4-22" class="date"><b>Apr 22</b></td>
   <td class="lecture">
-	<b>Lec 10:</b> Machine learning systems</td>
+	<b>Lec 10:</b>Facebook memcache [<a href="./public/lecs/lec9-fbmc.pdf">slides</a>]
+		[<a href="./public/lecs/lec9-fbmc+notes_v2.pdf">slides+notes</a>]</td>
   <td class="nodue">
-	<span class="reading">Parameter server, Ray</span></td>
+	<span class="reading"><a href="./public/papers/memcache_nsdi13.pdf">Facebook memcache</a>, <br/>
+		<a href="./public/papers/fbkvs_sigmetrics12.pdf">Workload analysis of Facebook's memcache</a></span></td>
   <td class="optional">MXNet, TensorFlow, Applied ML at Facebook</td>
 </tr>
 <tr> <!-- week of Apr 27 -->
