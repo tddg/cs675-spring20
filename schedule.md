@@ -171,6 +171,7 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="holiday">
 	<b>Extended Spring Recess</b> (NO CLASS)</td>
   <td class="holiday"></td>
+  <td></td>
 </tr>
 <tr> <!-- week of Mar 23 -->
   <td id="2020-3-25" class="date"><b>Mar 25</b></td>
@@ -235,7 +236,7 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="nodue">
 	<span class="reading"><a href="./public/papers/memcache_nsdi13.pdf">Facebook memcache</a>, <br/>
 		<a href="./public/papers/fbkvs_sigmetrics12.pdf">Workload analysis of Facebook's memcache</a></span></td>
-  <td class="nodue"></td>
+  <td></td>
 </tr>
 <tr> <!-- week of Apr 27 -->
   <td id="2020-4-29" class="date"><b>Apr 29</b></td>
