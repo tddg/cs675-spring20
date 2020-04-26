@@ -258,7 +258,7 @@ The course schedule is tentative and subject to change. You can find our reading
   <td class="exam">
 	<b>Final exam (TBD)</b></td>
   <td class="deadline">
-	<span class="hwdue">Final project report and src due Friday 05/08</span></td>
+	<span class="hwdue">Final project report and src due Friday 05/15</span></td>
   <td></td>
 </tr>
 
