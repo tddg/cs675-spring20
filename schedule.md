@@ -244,7 +244,11 @@ The course schedule is tentative and subject to change. You can find our reading
 	<b>Lec 11:</b> Ray RL framework</td>
   <td class="nodue">
 	<span class="reading"><a href="./public/papers/ray_osdi18.pdf">Ray</a></span></td>
-  <td class="optional">MXNet, TensorFlow, Applied ML at Facebook</td>
+  <td class="optional"><a href="./public/papers/pserver_osdi14.pdf">Parameter Server</a>,<br/> 
+		<a href="./public/papers/mxnet.pdf">MXNet</a>,<br/> 
+		<a href="./public/papers/tensorflow_osdi16.pdf">TensorFlow</a>,<br/> 
+		<a href="./public/papers/mlfb_hpca18.pdf">Applied ML at Facebook</a> 
+		(<a href="https://aidc.gallery.video/detail/videos/all-videos/video/5789368923001/applied-machine-learning-at-facebook:-a-datacenter-infrastructure-perspective">video</a>)</td>
 </tr>
 <tr> <!-- week of May 4 -->
   <td id="2020-5-6" class="date"><b>May 6</b></td>
