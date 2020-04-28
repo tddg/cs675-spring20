@@ -58,9 +58,13 @@ permalink: /reading_list.html
 
 ## Distributed Machine Learning Systems
 
-[Scaling Distributed Machine Learning with the Parameter Server]({{ site.baseurl }}/public/papers/pserver_osdi14.pdf) [USENIX OSDI 2014]
-
 [Ray: A Distributed Framework for Emerging AI Applications]({{ site.baseurl }}/public/papers/ray_osdi18.pdf) [USENIX OSDI 2018]
+
+[Scaling Distributed Machine Learning with the Parameter Server]({{ site.baseurl }}/public/papers/pserver_osdi14.pdf) [USENIX OSDI 2014] (*optional*)
+
+[TensorFlow: A System for Large-Scale Machine Learning]({{ site.baseurl }}/public/papers/tensorflow_osdi16.pdf) [USENIX OSDI 2016] (*optional*)
+
+[MXNet: A Flexible and Efficient Machine LearningLibrary for Heterogeneous Distributed Systems]({{ site.baseurl }}/public/papers/mxnet.pdf) (*optional*)
 
 
 ## Datacenter Scheduling (*optional*)
