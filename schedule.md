@@ -242,7 +242,7 @@ The course schedule is tentative and subject to change. You can find our reading
   <td id="2020-4-29" class="date"><b>Apr 29</b></td>
   <td class="lecture">
 	<b>Lec 11:</b> Ray RL framework [<a href="./public/lecs/lec11-ray.pdf">pdf</a>]
-		[<a href="./public/lecs/lec11-ray.pptx">pptx (w/ animation)</a>]
+		[<a href="./public/lecs/lec11-ray.pptx">pptx</a> (w/ animation)]
 		[<a href="./public/lecs/lec11-ray+notes.pdf">pdf+notes</a>]
 		[<a href="./public/lecs/lec11-ray+notes.pptx">pptx+notes</a>]</td>
   <td class="nodue">
