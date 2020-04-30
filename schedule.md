@@ -244,7 +244,8 @@ The course schedule is tentative and subject to change. You can find our reading
 	<b>Lec 11:</b> Ray RL framework [<a href="./public/lecs/lec11-ray.pdf">pdf</a>]
 		[<a href="./public/lecs/lec11-ray.pptx">pptx</a> (w/ animation)]
 		[<a href="./public/lecs/lec11-ray+notes.pdf">pdf+notes</a>]
-		[<a href="./public/lecs/lec11-ray+notes.pptx">pptx+notes</a>]</td>
+		[<a href="./public/lecs/lec11-ray+notes.pptx">pptx+notes</a>]
+		[<a href="./public/lecs/ray_api_examples.pdf">Ray API examples</a>]</td>
   <td class="nodue">
 	<span class="reading"><a href="./public/papers/ray_osdi18.pdf">Ray</a></span></td>
   <td class="optional"><a href="./public/papers/pserver_osdi14.pdf">Parameter Server</a>,<br/> 
@@ -255,15 +256,17 @@ The course schedule is tentative and subject to change. You can find our reading
 </tr>
 <tr> <!-- week of May 4 -->
   <td id="2020-5-6" class="date"><b>May 6</b></td>
-  <td class="presentation">
-	<b>Project presentation</b></td>
+  <td class="lecture">
+	<b>Lec 12:</b> Review</td>
   <td class="nodue"></td>
   <td></td>
 </tr>
 <tr> <!-- week of May 11 -->
   <td id="2020-5-13" class="date"><b>May 13</b></td>
-  <td class="exam">
-	<b>Final exam (TBD)</b></td>
+  <td class="presentation">
+	<b>Project presentation</b></td>
+  <!--td class="exam">
+	<b>Final exam (TBD)</b></td-->
   <td class="deadline">
 	<span class="hwdue">Final project report and src due Friday 05/15</span></td>
   <td></td>
