@@ -257,7 +257,7 @@ The course schedule is tentative and subject to change. You can find our reading
 <tr> <!-- week of May 4 -->
   <td id="2020-5-6" class="date"><b>May 6</b></td>
   <td class="lecture">
-	<b>Lec 12:</b> Review</td>
+	<b>Lec 12:</b> Course summary [<a href="./public/lecs/lec12-review.pdf">slides</a>]</td>
   <td class="nodue"></td>
   <td></td>
 </tr>
