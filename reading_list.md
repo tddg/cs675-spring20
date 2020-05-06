@@ -64,7 +64,7 @@ permalink: /reading_list.html
 
 [TensorFlow: A System for Large-Scale Machine Learning]({{ site.baseurl }}/public/papers/tensorflow_osdi16.pdf) [USENIX OSDI 2016] (*optional*)
 
-[MXNet: A Flexible and Efficient Machine LearningLibrary for Heterogeneous Distributed Systems]({{ site.baseurl }}/public/papers/mxnet.pdf) (*optional*)
+[MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems]({{ site.baseurl }}/public/papers/mxnet.pdf) (*optional*)
 
 
 ## Datacenter Scheduling (*optional*)
