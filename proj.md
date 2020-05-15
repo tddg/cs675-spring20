@@ -87,12 +87,17 @@ Please *ensure that your plots print ok on black and white printouts.
 It is ok to use color, but you cannot solely rely on color to
 distinguish datapoints or datalines*.
 
-> **IMPORTANT:** The deadline of Final Project Report is 11:59pm May 8 (Friday). You should
+> **IMPORTANT:** The deadline of Final Project Report is 11:59pm May 15 (Friday). You should
 target a writeup with 6-10 pages for main material + any
 number of pages for references. References count as extra pages (not included in the 6-10 pages).
-You should use the [USENIX latex
-template](https://www.usenix.org/conferences/author-resources/paper-templates).
+It is highly recommended to use the [USENIX latex
+template](https://www.usenix.org/conferences/author-resources/paper-templates); however,
+if you prefer to use MS Word, it is also OK.
 To submit, do the following: Email your report as an email
 attachment (pdf only) with Subject line "CS 675 Final Project Report" to
-yuecheng at gmu dot edu. Please **DO NOT** post your final report on publicly
+yuecheng at gmu dot edu. Please send your presentation slides with the email
+as well. For the source code, you can tar them and send the instructor
+an archived tar ball; or, if you prefer, you can create a **private** Mason GitLab repository
+and share it with me. 
+Please **DO NOT** post your final report on publicly
 accessible repositories such as GitHub or BitBucket. 
